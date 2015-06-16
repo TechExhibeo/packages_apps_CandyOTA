@@ -3,7 +3,7 @@
 # Requirements for CandyOTA to work properly...
 
 
-1. Device must have offical support by CandRom's
+1. Device must have official support by CandyRom's
 2. Dircet linking 
 3. A brain
 
